@@ -1,3 +1,3 @@
 # TesteDesconto
 
-Teste de sistema em python com foco 
+Teste de um sistema de desconto em python, com foco em aprendizado em testes de sistemas.
