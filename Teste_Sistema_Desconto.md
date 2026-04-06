@@ -18,7 +18,7 @@ entrada: 10, a.
 retorno_esperado: Exibição de mensagem de erro sem travar o sistema.
 resultado: De acordo com o resultado esperado.
 
-test005:
-entrada:
-retorno_esperado:
-resultado:
+test005: Testando entrada de número na parte de desconto.
+entrada: 10, 50.
+retorno_esperado: Exibição do valor final com desconto aplicado.
+resultado: Exibição do valor final sem desconto aplicado.
